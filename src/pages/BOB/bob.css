@@ -1,0 +1,14 @@
+.bobContainer{
+    display: flex;
+    width: 100%;
+    background-color: #4B0928;
+}
+
+.bob{
+    display: flex;
+    width: 100%;
+    padding: 30px;
+    background-color: #1E1E1E;
+    color: white;
+    
+}
